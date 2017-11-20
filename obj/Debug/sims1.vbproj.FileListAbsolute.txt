@@ -1,0 +1,23 @@
+C:\Users\SUROOR\Desktop\Visual Studio 2017\sims1\sims1\obj\Debug\sims1.vbprojResolveAssemblyReference.cache
+C:\Users\SUROOR\Desktop\Visual Studio 2017\sims1\sims1\obj\Debug\sims1.Admin.resources
+C:\Users\SUROOR\Desktop\Visual Studio 2017\sims1\sims1\obj\Debug\sims1.Login.resources
+C:\Users\SUROOR\Desktop\Visual Studio 2017\sims1\sims1\obj\Debug\sims1.Resources.resources
+C:\Users\SUROOR\Desktop\Visual Studio 2017\sims1\sims1\obj\Debug\sims1.NewStudent.resources
+C:\Users\SUROOR\Desktop\Visual Studio 2017\sims1\sims1\obj\Debug\sims1.Student.resources
+C:\Users\SUROOR\Desktop\Visual Studio 2017\sims1\sims1\obj\Debug\sims1.updateForm.resources
+C:\Users\SUROOR\Desktop\Visual Studio 2017\sims1\sims1\obj\Debug\sims1.vbproj.GenerateResource.Cache
+C:\Users\SUROOR\Desktop\Visual Studio 2017\sims1\sims1\obj\Debug\sims1.vbproj.CoreCompileInputs.cache
+C:\Users\SUROOR\Desktop\Visual Studio 2017\sims1\sims1\bin\Debug\sims1.exe.config
+C:\Users\SUROOR\Desktop\Visual Studio 2017\sims1\sims1\bin\Debug\sims1.exe
+C:\Users\SUROOR\Desktop\Visual Studio 2017\sims1\sims1\bin\Debug\sims1.pdb
+C:\Users\SUROOR\Desktop\Visual Studio 2017\sims1\sims1\bin\Debug\sims1.xml
+C:\Users\SUROOR\Desktop\Visual Studio 2017\sims1\sims1\bin\Debug\My Project.Resources.Designer.vb.dll
+C:\Users\SUROOR\Desktop\Visual Studio 2017\sims1\sims1\bin\Debug\MySql.Data.dll
+C:\Users\SUROOR\Desktop\Visual Studio 2017\sims1\sims1\bin\Debug\MySql.Data.xml
+C:\Users\SUROOR\Desktop\Visual Studio 2017\sims1\sims1\obj\Debug\sims1.exe
+C:\Users\SUROOR\Desktop\Visual Studio 2017\sims1\sims1\obj\Debug\sims1.xml
+C:\Users\SUROOR\Desktop\Visual Studio 2017\sims1\sims1\obj\Debug\sims1.pdb
+F:\sims1\sims1\sims1\bin\Debug\sims1.exe.config
+F:\sims1\sims1\sims1\obj\Debug\sims1.exe
+F:\sims1\sims1\sims1\obj\Debug\sims1.xml
+F:\sims1\sims1\sims1\obj\Debug\sims1.pdb
